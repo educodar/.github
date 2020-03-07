@@ -7,23 +7,24 @@ assignees: ''
 
 ---
 
-## Contexto de negócio
+## Contexto
 
-(Como esse card se conecta ao negócio do Educodar?)
+- ❓ O que está acontecendo no Educodar que torna necessária a criação dessa história?
+- ❓ Por que é importante implementar essa história?
+- ❓ Como essa história irá criar valor para o Educodar?
 
-## User Story
+## Valor de negócio
 
-**Como** (público)
-**Eu quero** (funcionalidade)
+**Como** (👥 para quem estamos construindo?)
+**Eu quero** (o que essas pessoas querem fazer?)
 **Para que** (valor)
 
 ## Escopo
 
-(É necessário criar uma nova página? Essa história tem dependências ou é dependência de alguma?)
+- ❓ É necessário criar uma nova página, UI ou algo assim?
+- ❓ Essa história se liga a outra, tem dependências ou é dependência de alguma outra história?
 
-## Issues relacionadas
-
-(Alguma outra issue que não tenha uma relação de dependência)
+Mencione todas as issues relacionadas usando # aqui.
 
 ---
 
@@ -53,15 +54,17 @@ assignees: ''
 
 ---
 
-## 🎨 Contexto adicional
+## 🎨 Contexto adicional (como mockups visuais)
 
-(Adicione protótipos ou _mockups_ aqui)
+Adicione protótipos, mockups e outros designs como anexos ou links aqui.
 
-## Invest
+## Checklist do invest
 
-- [x] This user story is independent: has no overlap, order is ok;
-- [x] This user story is negotiable: has no contract, nor spec, details can change;
-- [x] This user story is valuable for Educodar: has incremental benefit to someone;
-- [x] This user story is estimable: has relative size to other stories;
-- [x] This user story is small and scalable: it's not bigger than an interation;
-- [ ] This user story is testable: we can tell if it's done.
+This story is...
+
+- [ ] **Independent**: has no overlap, order is ok;
+- [ ] **Negotiable**: has no contract, nor spec, details can change;
+- [ ] **Valuable** for Educodar: has incremental benefit to someone;
+- [ ] **Estimable**: has relative size to other stories;
+- [ ] **Small/Scalable**: it's not bigger than an interation;
+- [ ] **Testable**: we can tell if it's done.
