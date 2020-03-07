@@ -1,3 +1,5 @@
+# chore(.typo-ci.yml)
+
 dictionaries:
   - en
   - pt_BR
@@ -17,5 +19,7 @@ excluded_files:
   - "Gemfile.lock"
   - ".typo-ci.yml"
 
+# chore(.typo-ci.yml) add excluded word(s)
 excluded_words:
   - andrade
+  - sexualized
