@@ -2,7 +2,7 @@
 name: User story
 about: História de usuária
 title: "[Story]"
-labels: ''
+labels: user story
 assignees: ''
 
 ---
