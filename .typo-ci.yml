@@ -1,0 +1,25 @@
+# chore(.typo-ci.yml)
+
+dictionaries:
+  - en
+  - pt_BR
+
+excluded_files:
+  - "vendor/**/*"
+  - "node_modules/**/*"
+  - "*.key"
+  - "*.enc"
+  - "*.min.css"
+  - "*.css.map"
+  - "*.min.js"
+  - "*.js.map"
+  - "*.mk"
+  - "package-lock.json"
+  - "yarn.lock"
+  - "Gemfile.lock"
+  - ".typo-ci.yml"
+
+# chore(.typo-ci.yml) add excluded word(s)
+excluded_words:
+  - andrade
+  - sexualized
