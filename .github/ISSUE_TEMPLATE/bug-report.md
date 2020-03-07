@@ -28,18 +28,19 @@ Se aplicável, adicione screenshots para explicar o problema.
 
 ## Ambiente
 
-## Desktop (por favor, complete as informações abaixo)
+### Desktop (por favor, complete as informações abaixo)
 
  - Sistema operacional: [ex: iOS]
  - Navegador: [ex: Chrome]
  - Versão: [ex: 82]
 
-## Mobile (por favor, complete as informações abaixo)
+### Mobile (por favor, complete as informações abaixo)
 
  - Dispositivo: [ex: iPhone 8]
  - Sistema operacional: [ex: 13.4]
  - Navegador: [ex: Safari, Chrome]
  - Versão: [ex: 80]
 
-**Additional context**
-Add any other context about the problem here.
+## Contexto adicional
+
+Adicione qualquer outro contexto adicional sobre o problema aqui.
